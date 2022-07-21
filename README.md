@@ -47,6 +47,10 @@
 
 ## 그 외 참고자료
 
+- LightGBM: A Highly Efficient Gradient Boosting Decision Tree, NeurIPS, 2017 ([pdf](https://github.com/mchoimis/tsdl/raw/main/lgbm.pdf))
+- Towards Causal Representation Learning, 2021 ([pdf](https://github.com/mchoimis/tsdl/raw/main/causalml.pdf))
+- Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning, 2021 ([pdf](https://github.com/mchoimis/tsdl/raw/main/mlops.pdf))
+
 <p></p>
 
 ## Announcement
