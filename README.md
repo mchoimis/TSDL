@@ -1,7 +1,7 @@
-# Time Series DL/ML
+# 📈 Time Series DL/ML
 
 
-패스트캠퍼스 [딥러닝/머신러닝을 활용한 시계열 데이터 분석](https://fastcampus.co.kr/data_online_timedata) 수강생을 위한 배포용 데이터와 모델입니다.
+패스트캠퍼스 <b>[딥러닝/머신러닝을 활용한 시계열 데이터 분석](https://fastcampus.co.kr/data_online_timedata)</b> 수강생을 위한 배포용 데이터와 모델입니다.
 
 <p></p>
 
@@ -10,28 +10,28 @@
 
 ## Part 1. 데이터 분석 첫 걸음 떼기
 
-분석환경에서 직접 다운받아 사용합니다
+데이터 분석과 통계검정의 개념을 배웁니다
 
+분석환경에서 직접 다운받아 사용합니다
 
 
 ## Part 2. 머신러닝으로 데이터 실무 맛보기
 
-[/income](/income) 소득구간 예측을 위한 인구 데이터  
+[/income](/income) (인구 데이터) 머신러닝으로 소득구간 분류 모델 만들기
  
-[/fraud](/fraud) 신용카드 거래 데이터 
+[/fraud](/fraud) (신용카드 거래 데이터) 시계열 처리와 머신러닝을 조합하여 학습모델 개선하기 
 
 
 ## Part 3. 본격 시계열 데이터 분석하기(단변량 시계열)
 
-[/world-war-ii](/world-war-ii) 제2차 세계대전 당시 공중 폭격 정보
+[/world-war-ii](/world-war-ii) (제2차 세계대전 공중폭격 정보) 시계열 데이터의 통계적 특성과 전처리
 
-[/weatherww2](/weatherww2) 제2차 세계대전 당시 공중 폭격 지역과 날씨 관측 정보  
+[/weatherww2](/weatherww2) (제2차 세계대전 날씨 관측 정보) 시간불변 변수와 시간가변 변수의 조합과 예측
  
 
 ## Part 4. 데이터 사이언티스트로 도약하기(다변량 시계열)
 
-[/market](/market) 자본시장 자산가격 시계열 데이터
-
+[/market](/market) (금융시장 데이터) 다양한 모델 이용하여 시장 예측하고 포트폴리오 수익률 최적화하기
 
 
 ## Part 5. 딥러닝을 이용하여 정교하게 예측하기
@@ -54,7 +54,10 @@
 
 <p></p>
 
-## Announcement
+## 📢 Announcement
 
 각각의 데이터 출처는 강의에서 고지한 바와 같으며, 추후 변경이 있을시 안내 후 업데이트 하겠습니다.
 
+## ❓ Questions & Answers
+
+본 강의에서 질문이 있을시 강사가 직접 답해드리는 [질의응답](https://dlmlhq.slack.com) 채널이 마련되어 있습니다. 많은 이용 바랍니다.
