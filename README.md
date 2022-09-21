@@ -42,7 +42,11 @@
 
 ## Part 6. 최신 사례로 실습 포트폴리오 확장하기
 
-추후 업데이트
+[/sales](/sales) (매출 데이터) 지도학습 (1) Prophet 패키지 이용하여 간단하게 매출 예측하기
+
+[/crime](/crime) (공공 데이터) 지도학습 (2) LSTM 이용한 범죄율 예측 + GEV 분포 적용하여 극단값 보정하기
+
+[/macro](/macro) (경제 데이터) 비지도학습 (1) Dynamic Time Warping으로 유사한 움직임 보이는 구간 찾기
 
 
 
@@ -51,6 +55,7 @@
 - LightGBM: A Highly Efficient Gradient Boosting Decision Tree, NeurIPS, 2017 ([pdf](https://github.com/mchoimis/tsdl/raw/main/lgbm.pdf))
 - Towards Causal Representation Learning, 2021 ([pdf](https://github.com/mchoimis/tsdl/raw/main/causalml.pdf))
 - Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning, 2021 ([pdf](https://github.com/mchoimis/tsdl/raw/main/mlops.pdf))
+- Forecasting at Scale, Facebook, 2017 ([pdf](https://peerj.com/preprints/3190.pdf))
 
 <p></p>
 
